@@ -1,4 +1,4 @@
-## Probability (19 questions)
+## Probability (19 questions) test
 
 #### 1. Bobo the amoeba has a 25%, 25%, and 50% chance of producing 0, 1, or 2 o spring, respectively. Each of Bobo’s descendants also have the same probabilities. What is the probability that Bobo’s lineage dies out?
   - p=1/4+1/4*p+1/2*p^2 => p=1/2
